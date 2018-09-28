@@ -29,7 +29,7 @@
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
-  background-color    : rgba(255, 255, 255, 1.0);
+  background-color    : rgba(0, 0, 0, 1.0);
 }
 a {
   text-decoration     : none;
@@ -82,7 +82,7 @@ div {
   line-height         : 80.0px;
 }
 .a2design .designwithfiorifu .span1 {
-  
+
 }
 .a2design .designwithfiorifu .span2 {
   font-family         : "72-Light", Helvetica, Arial, serif;
@@ -777,19 +777,19 @@ div {
   line-height         : 22.0px;
 }
 .a2design .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span1 {
-  
+
 }
 .a2design .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span2 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
 .a2design .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span3 {
-  
+
 }
 .a2design .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span4 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
 .a2design .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span5 {
-  
+
 }
 .a2design .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span6 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
@@ -1092,7 +1092,7 @@ div {
   line-height         : 28.0px;
 }
 .a2design .group14 .sapfioridesign .span1 {
-  
+
 }
 .a2design .group14 .sapfioridesign .span2 {
   font-family         : "72-Light", Helvetica, Arial, serif;
@@ -1977,8 +1977,8 @@ div {
 }
 .a2design .group1443copy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 738px;
+  top                 : 149px;
+  height              : 620px;
   width               : 536px;
   position            : absolute;
   margin              : 0;
@@ -2370,7 +2370,7 @@ div {
   line-height         : 32.0px;
 }
 .a2design .group4copy .group4copy1 .group3 .overviewpage .span1 {
-  
+
 }
 .a2design .group4copy .group4copy1 .group3 .overviewpage .span2 {
   font-family         : "72-Light", Helvetica, Arial, serif;
@@ -2962,56 +2962,56 @@ div {
 }
 @-webkit-keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }
 }
 @-moz-keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }
 }
 @-o-keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }
 }
 @keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }

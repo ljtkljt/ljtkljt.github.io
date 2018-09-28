@@ -21,6 +21,40 @@
   src: url('../fonts/72-Italic.ttf') format("truetype");
 }
 
+video{pointer-events: none;}
+
+video::-webkit-media-controls {
+
+  display: none;
+}
+
+/* Could Use thise as well for Individual Controls */
+video::-webkit-media-controls-play-button {
+  display: none;
+}
+
+video::-webkit-media-controls-start-playback-button {
+   display: none;
+}
+
+
+video::-webkit-media-controls-volume-slider {
+  display: none;
+}
+
+video::-webkit-media-controls-mute-button {
+  display: none;
+}
+
+video::-webkit-media-controls-timeline {
+  display: none;
+}
+
+video::-webkit-media-controls-current-time-display {
+  display: none;
+}
+
+
 .a1home {
   width               : 100%;
   min-width           : 1440px;
@@ -29,7 +63,7 @@
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
-  background-color    : rgba(255, 255, 255, 1.0);
+  background-color    : rgba(0, 0, 0, 1.0);
 }
 a {
   text-decoration     : none;
@@ -354,7 +388,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap1 {
+.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 293px;
@@ -367,7 +401,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap1 .mask2 {
+.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap2 .mask2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 293px;
@@ -379,7 +413,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap1 .bitmap2 {
+.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap2 .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 293px;
@@ -392,7 +426,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap1 .bitmap2 .mask3 {
+.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap2 .bitmap3 .mask3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 293px;
@@ -404,7 +438,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap1 .bitmap2 .bitmap3 {
+.a1home .group7 .bitmapcopy2 .bitmapcopy21 .bitmap2 .bitmap3 .bitmap4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 351px;
@@ -416,7 +450,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group7 .bitmap {
+.a1home .group7 .bitmap1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 607px;
   height              : 47px;
@@ -512,19 +546,19 @@ div {
   line-height         : 22.0px;
 }
 .a1home .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span1 {
-  
+
 }
 .a1home .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span2 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
 .a1home .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span3 {
-  
+
 }
 .a1home .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span4 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
 .a1home .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span5 {
-  
+
 }
 .a1home .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span6 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
@@ -658,7 +692,6 @@ div {
   transform           : rotate(0deg);
 }
 .a1home .group8 .group6 .rectangle6copy2 {
-  background-color    : rgba(234, 234, 234, 1.0);
   top                 : 0px;
   height              : 480px;
   width               : 1440px;
@@ -681,7 +714,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a1home .group8 .group6 .bitmap {
+.a1home .group8 .group6 .bitmap2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 220px;
   height              : 230px;
@@ -809,7 +842,7 @@ div {
   line-height         : 58.0px;
 }
 .a1home .group8 .group6 .fiorifundamentals .span1 {
-  
+
 }
 .a1home .group8 .group6 .fiorifundamentals .span2 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
@@ -1081,7 +1114,7 @@ div {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 614px;
-  width               : 1445px;
+  width               : 1440px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1238,7 +1271,7 @@ div {
   text-align          : left;
   line-height         : 17.0px;
 }
-.a1home .group4 .bitmap {
+.a1home .group4 .bitmap2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 200px;
   height              : 243px;
@@ -1391,7 +1424,7 @@ div {
   line-height         : 28.0px;
 }
 .a1home .group14 .sapfioridesign .span1 {
-  
+
 }
 .a1home .group14 .sapfioridesign .span2 {
   font-family         : "72-Light", Helvetica, Arial, serif;
@@ -1441,7 +1474,252 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+}
+.a1home .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 626px;
+  height              : 250px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1010px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.62;
+}
+.a1home .group9copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 760px;
+  width               : 826px;
+  position            : absolute;
+  margin              : 0;
+  left                : 614px;
   overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group9copy .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 760px;
+  width               : 826px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group9copy .group9copy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 701px;
+  width               : 826px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group9copy .group9copy1 .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 470px;
+  height              : 231px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.62;
+}
+.a1home .group9copy .group9copy1 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 231px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 334px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.62;
+}
+.a1home .group9copy .group9copy1 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 232px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.62;
+}
+.a1home .group9copy .group9copy1 .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 564px;
+  width               : 690px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 403px;
+  height              : 364px;
+  width               : 628px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group11 .designdevelopwit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 64.0px;
+  color               : rgba(212, 212, 212, 1.0);
+  text-align          : left;
+  line-height         : 74.0px;
+}
+.a1home .group11 .designdevelopwit .span1 {
+
+}
+.a1home .group11 .designdevelopwit .span2 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+}
+.a1home .group11 .designdevelopwit .span3 {
+
+}
+.a1home .group11 .designdevelopwit .span4 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+}
+.a1home .group11 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 174px;
+  height              : 3px;
+  width               : 481px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group11 .linecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : 119px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group11 .linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : 119px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 466px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1home .group11 .explorethecomponen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 236px;
+  height              : auto;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(212, 212, 212, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.a1home .group11 .fioriforsketch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 236px;
+  height              : auto;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 262px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(121, 121, 121, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.a1home .group11 .learnmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 326px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a1home .group11 .downloadplugins {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 326px;
+  height              : auto;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 262px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(121, 121, 121, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -1468,56 +1746,56 @@ div {
 }
 @-webkit-keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }
 }
 @-moz-keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }
 }
 @-o-keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }
 }
 @keyframes anima-reveal {
   0%
-   
+
   {
       opacity: 0;
     }
-  
-    
+
+
   100%
-   
+
   {
       opacity: 1;
     }

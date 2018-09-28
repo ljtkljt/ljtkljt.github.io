@@ -21,7 +21,7 @@
   src: url('../fonts/72-Italic.ttf') format("truetype");
 }
 
-.a3library {
+.a3librarycopy {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
@@ -40,19 +40,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.a3library .rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 2521px;
-  height              : 49px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a3library .rectangle22 {
+.a3librarycopy .rectangle22 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2571px;
   height              : 61px;
@@ -64,10 +52,10 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .column {
+.a3librarycopy .column {
   background-color    : rgba(238, 238, 238, 1.0);
   top                 : 33px;
-  height              : 2487px;
+  height              : 2537px;
   width               : 310px;
   position            : absolute;
   margin              : 0;
@@ -76,7 +64,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .rightcolumn {
+.a3librarycopy .rightcolumn {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 3753px;
@@ -88,7 +76,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .foundation {
+.a3librarycopy .foundation {
   background-color    : rgba(255,255,255,0.0);
   top                 : 187px;
   height              : auto;
@@ -105,7 +93,7 @@ div {
   text-align          : left;
   line-height         : 32.0px;
 }
-.a3library .library {
+.a3librarycopy .library {
   background-color    : rgba(255,255,255,0.0);
   top                 : 169px;
   height              : auto;
@@ -122,7 +110,7 @@ div {
   text-align          : left;
   line-height         : 55.0px;
 }
-.a3library .typography {
+.a3librarycopy .typography {
   background-color    : rgba(255,255,255,0.0);
   top                 : 282px;
   height              : auto;
@@ -139,7 +127,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .principles {
+.a3librarycopy .principles {
   background-color    : rgba(255,255,255,0.0);
   top                 : 238px;
   height              : auto;
@@ -156,7 +144,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .action {
+.a3librarycopy .action {
   background-color    : rgba(255,255,255,0.0);
   top                 : 595px;
   height              : auto;
@@ -173,7 +161,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .actioncopy {
+.a3librarycopy .actioncopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 492px;
   height              : auto;
@@ -190,7 +178,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .button {
+.a3librarycopy .button {
   background-color    : rgba(255,255,255,0.0);
   top                 : 818px;
   height              : auto;
@@ -207,7 +195,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .forms {
+.a3librarycopy .forms {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1144px;
   height              : auto;
@@ -224,7 +212,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .link {
+.a3librarycopy .link {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1796px;
   height              : auto;
@@ -241,7 +229,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .megamenu {
+.a3librarycopy .megamenu {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2122px;
   height              : auto;
@@ -258,7 +246,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .tabs {
+.a3librarycopy .tabs {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2448px;
   height              : auto;
@@ -275,7 +263,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .image {
+.a3librarycopy .image {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1470px;
   height              : auto;
@@ -292,7 +280,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .alert {
+.a3librarycopy .alert {
   background-color    : rgba(255,255,255,0.0);
   top                 : 492px;
   height              : auto;
@@ -309,7 +297,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .contextualmenu {
+.a3librarycopy .contextualmenu {
   background-color    : rgba(255,255,255,0.0);
   top                 : 818px;
   height              : auto;
@@ -326,7 +314,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .icon {
+.a3librarycopy .icon {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1144px;
   height              : auto;
@@ -343,7 +331,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .list {
+.a3librarycopy .list {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1796px;
   height              : auto;
@@ -360,7 +348,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .pagination {
+.a3librarycopy .pagination {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2122px;
   height              : auto;
@@ -377,7 +365,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .tag {
+.a3librarycopy .tag {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2448px;
   height              : auto;
@@ -394,7 +382,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .inlinehelp {
+.a3librarycopy .inlinehelp {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1470px;
   height              : auto;
@@ -411,7 +399,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .badgelabel {
+.a3librarycopy .badgelabel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 492px;
   height              : auto;
@@ -428,7 +416,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .modal {
+.a3librarycopy .modal {
   background-color    : rgba(255,255,255,0.0);
   top                 : 818px;
   height              : auto;
@@ -445,7 +433,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .identifier {
+.a3librarycopy .identifier {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1144px;
   height              : auto;
@@ -462,7 +450,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .loadingspinner {
+.a3librarycopy .loadingspinner {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1796px;
   height              : auto;
@@ -479,7 +467,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .table {
+.a3librarycopy .table {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2122px;
   height              : auto;
@@ -496,7 +484,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .tile {
+.a3librarycopy .tile {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2448px;
   height              : auto;
@@ -513,7 +501,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .inputgroup {
+.a3librarycopy .inputgroup {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1470px;
   height              : auto;
@@ -530,7 +518,7 @@ div {
   text-align          : center;
   line-height         : 23.0px;
 }
-.a3library .identifier1 {
+.a3librarycopy .identifier1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 952px;
   height              : auto;
@@ -547,7 +535,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .contextualmenu1 {
+.a3librarycopy .contextualmenu1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 774px;
   height              : auto;
@@ -564,7 +552,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .link1 {
+.a3librarycopy .link1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1131px;
   height              : auto;
@@ -581,7 +569,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .motiondesign {
+.a3librarycopy .motiondesign {
   background-color    : rgba(255,255,255,0.0);
   top                 : 327px;
   height              : auto;
@@ -598,7 +586,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .alert1 {
+.a3librarycopy .alert1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 640px;
   height              : auto;
@@ -615,7 +603,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .image1 {
+.a3librarycopy .image1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 997px;
   height              : auto;
@@ -632,7 +620,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .modal1 {
+.a3librarycopy .modal1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 819px;
   height              : auto;
@@ -649,7 +637,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .list1 {
+.a3librarycopy .list1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1175px;
   height              : auto;
@@ -666,7 +654,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .pagination1 {
+.a3librarycopy .pagination1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1309px;
   height              : auto;
@@ -683,7 +671,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .iconography {
+.a3librarycopy .iconography {
   background-color    : rgba(255,255,255,0.0);
   top                 : 371px;
   height              : auto;
@@ -700,7 +688,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .badgelabel1 {
+.a3librarycopy .badgelabel1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 685px;
   height              : auto;
@@ -717,7 +705,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .inlinehelp1 {
+.a3librarycopy .inlinehelp1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1042px;
   height              : auto;
@@ -734,7 +722,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .forms1 {
+.a3librarycopy .forms1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 863px;
   height              : auto;
@@ -751,7 +739,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .loadingspinner1 {
+.a3librarycopy .loadingspinner1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1220px;
   height              : auto;
@@ -768,7 +756,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .table1 {
+.a3librarycopy .table1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1354px;
   height              : auto;
@@ -785,7 +773,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .tag1 {
+.a3librarycopy .tag1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1442px;
   height              : auto;
@@ -802,7 +790,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .tile1 {
+.a3librarycopy .tile1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1486px;
   height              : auto;
@@ -819,7 +807,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .theming {
+.a3librarycopy .theming {
   background-color    : rgba(255,255,255,0.0);
   top                 : 416px;
   height              : auto;
@@ -836,7 +824,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .colors {
+.a3librarycopy .colors {
   background-color    : rgba(255,255,255,0.0);
   top                 : 461px;
   height              : auto;
@@ -853,7 +841,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .button1 {
+.a3librarycopy .button1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 729px;
   height              : auto;
@@ -870,7 +858,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .inputgroup1 {
+.a3librarycopy .inputgroup1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1086px;
   height              : auto;
@@ -887,7 +875,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .icon1 {
+.a3librarycopy .icon1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 908px;
   height              : auto;
@@ -904,7 +892,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .megamenu1 {
+.a3librarycopy .megamenu1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1265px;
   height              : auto;
@@ -921,7 +909,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .tabs1 {
+.a3librarycopy .tabs1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1398px;
   height              : auto;
@@ -938,7 +926,7 @@ div {
   text-align          : left;
   line-height         : 21.0px;
 }
-.a3library .library1 {
+.a3librarycopy .library1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 546px;
   height              : auto;
@@ -955,7 +943,7 @@ div {
   text-align          : left;
   line-height         : 32.0px;
 }
-.a3library .group4 {
+.a3librarycopy .group4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 135px;
   height              : 26px;
@@ -967,7 +955,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group4 .search {
+.a3librarycopy .group4 .search {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 26px;
@@ -980,7 +968,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 0.49;
 }
-.a3library .line7 {
+.a3librarycopy .line7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 238px;
   height              : 3px;
@@ -992,7 +980,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy2 {
+.a3librarycopy .line7copy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 563px;
   height              : 3px;
@@ -1004,7 +992,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy3 {
+.a3librarycopy .line7copy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 889px;
   height              : 3px;
@@ -1016,7 +1004,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy6 {
+.a3librarycopy .line7copy6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1541px;
   height              : 3px;
@@ -1028,7 +1016,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy8 {
+.a3librarycopy .line7copy8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1867px;
   height              : 3px;
@@ -1040,7 +1028,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy10 {
+.a3librarycopy .line7copy10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2193px;
   height              : 3px;
@@ -1052,7 +1040,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy4 {
+.a3librarycopy .line7copy4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1215px;
   height              : 3px;
@@ -1064,7 +1052,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line7copy {
+.a3librarycopy .line7copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 513px;
   height              : 3px;
@@ -1076,7 +1064,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line3 {
+.a3librarycopy .line3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 241px;
   height              : 2279px;
@@ -1088,7 +1076,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .line3copy {
+.a3librarycopy .line3copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 241px;
   height              : 2279px;
@@ -1100,7 +1088,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pm {
+.a3librarycopy .screenshot20180926at23514pm {
   background-color    : rgba(255,255,255,0.0);
   top                 : 270px;
   height              : 191px;
@@ -1112,7 +1100,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy12 {
+.a3librarycopy .screenshot20180926at23514pmcopy12 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 270px;
   height              : 178px;
@@ -1124,7 +1112,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy15 {
+.a3librarycopy .screenshot20180926at23514pmcopy15 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1289px;
   height              : 135px;
@@ -1136,7 +1124,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy18 {
+.a3librarycopy .screenshot20180926at23514pmcopy18 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2243px;
   height              : 184px;
@@ -1148,7 +1136,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy {
+.a3librarycopy .screenshot20180926at23514pmcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 276px;
   height              : 191px;
@@ -1160,7 +1148,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy7 {
+.a3librarycopy .screenshot20180926at23514pmcopy7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 988px;
   height              : 102px;
@@ -1172,7 +1160,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy13 {
+.a3librarycopy .screenshot20180926at23514pmcopy13 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1605px;
   height              : 145px;
@@ -1184,7 +1172,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy16 {
+.a3librarycopy .screenshot20180926at23514pmcopy16 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1890px;
   height              : 208px;
@@ -1196,7 +1184,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy10 {
+.a3librarycopy .screenshot20180926at23514pmcopy10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 631px;
   height              : 151px;
@@ -1208,7 +1196,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy8 {
+.a3librarycopy .screenshot20180926at23514pmcopy8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 901px;
   height              : 207px;
@@ -1220,7 +1208,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy14 {
+.a3librarycopy .screenshot20180926at23514pmcopy14 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1565px;
   height              : 209px;
@@ -1232,7 +1220,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy17 {
+.a3librarycopy .screenshot20180926at23514pmcopy17 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1890px;
   height              : 195px;
@@ -1244,7 +1232,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy11 {
+.a3librarycopy .screenshot20180926at23514pmcopy11 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 578px;
   height              : 213px;
@@ -1256,7 +1244,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy9 {
+.a3librarycopy .screenshot20180926at23514pmcopy9 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 586px;
   height              : 205px;
@@ -1268,7 +1256,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy6 {
+.a3librarycopy .screenshot20180926at23514pmcopy6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 961px;
   height              : 113px;
@@ -1280,7 +1268,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy5 {
+.a3librarycopy .screenshot20180926at23514pmcopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1241px;
   height              : 200px;
@@ -1292,7 +1280,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy21 {
+.a3librarycopy .screenshot20180926at23514pmcopy21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1242px;
   height              : 206px;
@@ -1304,7 +1292,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy22 {
+.a3librarycopy .screenshot20180926at23514pmcopy22 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1584px;
   height              : 184px;
@@ -1316,7 +1304,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy2 {
+.a3librarycopy .screenshot20180926at23514pmcopy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1895px;
   height              : 190px;
@@ -1328,7 +1316,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy4 {
+.a3librarycopy .screenshot20180926at23514pmcopy4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2256px;
   height              : 155px;
@@ -1340,7 +1328,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .screenshot20180926at23514pmcopy3 {
+.a3librarycopy .screenshot20180926at23514pmcopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2220px;
   height              : 184px;
@@ -1352,7 +1340,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 {
+.a3librarycopy .group14 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 204px;
@@ -1364,7 +1352,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 .group2 {
+.a3librarycopy .group14 .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : 24px;
@@ -1376,7 +1364,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 .group2 .fiorifundamentalscopy {
+.a3librarycopy .group14 .group2 .fiorifundamentalscopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1393,7 +1381,7 @@ div {
   text-align          : left;
   line-height         : 17.0px;
 }
-.a3library .group14 .group2 .ui5 {
+.a3librarycopy .group14 .group2 .ui5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1410,7 +1398,7 @@ div {
   text-align          : left;
   line-height         : 17.0px;
 }
-.a3library .group14 .group2 .fioriforios {
+.a3librarycopy .group14 .group2 .fioriforios {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1427,7 +1415,7 @@ div {
   text-align          : left;
   line-height         : 17.0px;
 }
-.a3library .group14 .group2 .fioriforandroid {
+.a3librarycopy .group14 .group2 .fioriforandroid {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1444,7 +1432,7 @@ div {
   text-align          : left;
   line-height         : 17.0px;
 }
-.a3library .group14 .group2copy {
+.a3librarycopy .group14 .group2copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : 36px;
@@ -1456,7 +1444,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 .group2copy .rectangle13 {
+.a3librarycopy .group14 .group2copy .rectangle13 {
   background-color    : rgba(74, 73, 74, 1.0);
   top                 : 0px;
   height              : 36px;
@@ -1469,7 +1457,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 .group2copy .rectangle13copy {
+.a3librarycopy .group14 .group2copy .rectangle13copy {
   background-color    : rgba(224, 224, 224, 1.0);
   top                 : 3px;
   height              : 30px;
@@ -1482,7 +1470,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 .group2copy .develop1 {
+.a3librarycopy .group14 .group2copy .develop1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9px;
   height              : auto;
@@ -1499,7 +1487,7 @@ div {
   text-align          : left;
   line-height         : 16.0px;
 }
-.a3library .group14 .group2copy .design1 {
+.a3librarycopy .group14 .group2copy .design1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9px;
   height              : auto;
@@ -1516,7 +1504,7 @@ div {
   text-align          : left;
   line-height         : 16.0px;
 }
-.a3library .group14 .rectangle5 {
+.a3librarycopy .group14 .rectangle5 {
   background-color    : rgba(0, 0, 0, 1.0);
   top                 : 0px;
   height              : 83px;
@@ -1528,7 +1516,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group14 .sapfioridesign {
+.a3librarycopy .group14 .sapfioridesign {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : auto;
@@ -1545,13 +1533,13 @@ div {
   text-align          : left;
   line-height         : 28.0px;
 }
-.a3library .group14 .sapfioridesign .span1 {
+.a3librarycopy .group14 .sapfioridesign .span1 {
   
 }
-.a3library .group14 .sapfioridesign .span2 {
+.a3librarycopy .group14 .sapfioridesign .span2 {
   font-family         : "72-Light", Helvetica, Arial, serif;
 }
-.a3library .group14 .design {
+.a3librarycopy .group14 .design {
   background-color    : rgba(255,255,255,0.0);
   top                 : 30px;
   height              : auto;
@@ -1564,11 +1552,11 @@ div {
   transform           : rotate(0deg);
   font-family         : "72-Bold", Helvetica, Arial, serif;
   font-size           : 24.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(72, 72, 72, 1.0);
   text-align          : left;
   line-height         : 28.0px;
 }
-.a3library .group14 .develop {
+.a3librarycopy .group14 .develop {
   background-color    : rgba(255,255,255,0.0);
   top                 : 30px;
   height              : auto;
@@ -1581,11 +1569,11 @@ div {
   transform           : rotate(0deg);
   font-family         : "72-Bold", Helvetica, Arial, serif;
   font-size           : 24.0px;
-  color               : rgba(72, 72, 72, 1.0);
+  color               : rgba(255, 255, 255, 1.0);
   text-align          : left;
   line-height         : 28.0px;
 }
-.a3library .group3 {
+.a3librarycopy .group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2519px;
   height              : 51px;
@@ -1597,7 +1585,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .line2copy3 {
+.a3librarycopy .group3 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2px;
+  height              : 49px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3librarycopy .group3 .line2copy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 3px;
@@ -1609,7 +1609,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .shellfooter {
+.a3librarycopy .group3 .shellfooter {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : 48px;
@@ -1622,7 +1622,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .shellfooter .background {
+.a3librarycopy .group3 .shellfooter .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 48px;
@@ -1634,7 +1634,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .shellfooter .privacy {
+.a3librarycopy .group3 .shellfooter .privacy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : auto;
@@ -1651,7 +1651,7 @@ div {
   text-align          : right;
   line-height         : 22.0px;
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : auto;
@@ -1668,25 +1668,25 @@ div {
   text-align          : right;
   line-height         : 22.0px;
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 .span1 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 .span1 {
   
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 .span2 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 .span2 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 .span3 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 .span3 {
   
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 .span4 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 .span4 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 .span5 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 .span5 {
   
 }
-.a3library .group3 .shellfooter .u6caaicpu590709046015u53f72 .span6 {
+.a3librarycopy .group3 .shellfooter .u6caaicpu590709046015u53f72 .span6 {
   font-family         : "72-Regular", Helvetica, Arial, serif;
 }
-.a3library .group3 .shellfooter .legaldisclosure {
+.a3librarycopy .group3 .shellfooter .legaldisclosure {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : auto;
@@ -1703,7 +1703,7 @@ div {
   text-align          : right;
   line-height         : 22.0px;
 }
-.a3library .group3 .shellfooter .copyrightandtradem {
+.a3librarycopy .group3 .shellfooter .copyrightandtradem {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : auto;
@@ -1720,7 +1720,7 @@ div {
   text-align          : right;
   line-height         : 22.0px;
 }
-.a3library .group3 .shellfooter .termsofuse {
+.a3librarycopy .group3 .shellfooter .termsofuse {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : auto;
@@ -1737,7 +1737,7 @@ div {
   text-align          : right;
   line-height         : 22.0px;
 }
-.a3library .group3 .shellfooter .group {
+.a3librarycopy .group3 .shellfooter .group {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : 24px;
@@ -1749,7 +1749,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .shellfooter .group .group2 {
+.a3librarycopy .group3 .shellfooter .group .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -1761,7 +1761,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .shellfooter .group .group2 .logo {
+.a3librarycopy .group3 .shellfooter .group .group2 .logo {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -1773,7 +1773,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a3library .group3 .shellfooter .group .group2 .thebestrun {
+.a3librarycopy .group3 .shellfooter .group .group2 .thebestrun {
   background-color    : rgba(255,255,255,0.0);
   top                 : 4px;
   height              : auto;
