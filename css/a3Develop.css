@@ -1,0 +1,3003 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+@font-face {
+  font-family: "72-Bold";
+  src: url('../fonts/72-Bold.ttf') format("truetype");
+}
+@font-face {
+  font-family: "72-Light";
+  src: url('../fonts/72-Light.ttf') format("truetype");
+}
+@font-face {
+  font-family: "72-Regular";
+  src: url('../fonts/72-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "SAP-icons";
+  src: url('../fonts/SAP-icons.ttf') format("truetype");
+}
+@font-face {
+  font-family: "72-Italic";
+  src: url('../fonts/72-Italic.ttf') format("truetype");
+}
+
+.a3develop {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 3042px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(0, 0, 0, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.a3develop .rectangle4 {
+  background-color    : rgba(35, 35, 35, 1.0);
+  top                 : 0px;
+  height              : 876px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group1443 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 274px;
+  height              : 612px;
+  width               : 1253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  -ms-transform       : rotate(-90deg); /* IE 9 */
+  -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-90deg);
+}
+.a3develop .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 876px;
+  height              : 867px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group14 .rectangle16 {
+  background-color    : rgba(24, 24, 24, 1.0);
+  top                 : 0px;
+  height              : 867px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group14 .colors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 240px;
+  height              : auto;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .group14 .spacing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 501px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .group14 .colorsbringdesigns {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 296px;
+  height              : auto;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .group14 .spacinghelpsconten {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 554px;
+  height              : auto;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .group14 .readmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 692px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .group14 .readmore1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 407px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .group14 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 232px;
+  height              : 169px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group14 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 507px;
+  height              : 191px;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group14 .foundation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : 639px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(222, 222, 222, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.a3develop .group14 .linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : 2px;
+  width               : 602px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.a3develop .group14 .grid {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 240px;
+  height              : auto;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .group14 .type {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 501px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .group14 .motiondesignandmi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 296px;
+  height              : auto;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .group14 .fundamentaluiuses1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 554px;
+  height              : auto;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .group14 .readmore2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 407px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .group14 .readmore3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 692px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .group14 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 222px;
+  height              : 179px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1129px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group14 .roboto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .group14 .rr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 507px;
+  height              : auto;
+  width               : 193px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1143px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 180.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 211.0px;
+}
+.a3develop .rectangle6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : 68px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .fiorifundamentalscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : auto;
+  width               : 147px;
+  position            : absolute;
+  margin              : 0;
+  left                : 780px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(201, 201, 201, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .ui5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : auto;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 995px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(79, 79, 79, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .fioriforios {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : auto;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1096px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(79, 79, 79, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .fioriforandroid {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : auto;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(79, 79, 79, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .group2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 36px;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1221px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy .rectangle13 {
+  background-color    : rgba(74, 73, 74, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy .rectangle13copy {
+  background-color    : rgba(224, 224, 224, 1.0);
+  top                 : 3px;
+  height              : 30px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  border-radius       : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy .develop1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a3develop .group2copy .design1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(109, 109, 109, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a3develop .rectangle6copy {
+  background-color    : rgba(234, 234, 234, 1.0);
+  top                 : 2413px;
+  height              : 629px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .whatu2019snew {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2493px;
+  height              : auto;
+  width               : 362px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(36, 36, 36, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.a3develop .rectangle5 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 83px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .sapfioridesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.a3develop .sapfioridesign .span1 {
+  
+}
+.a3develop .sapfioridesign .span2 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+}
+.a3develop .design {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1135px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(72, 72, 72, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.a3develop .develop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1301px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.a3develop .rectangle17 {
+  background-color    : rgba(36, 36, 36, 1.0);
+  top                 : 1743px;
+  height              : 670px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .modal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2096px;
+  height              : auto;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(94, 164, 233, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .popularuielements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2040px;
+  height              : auto;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(192, 192, 192, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .sidenavigation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2096px;
+  height              : auto;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 305px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(95, 168, 239, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .dropdown-view {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2096px;
+  height              : auto;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 467px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(95, 168, 239, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .resources {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1851px;
+  height              : auto;
+  width               : 362px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(222, 222, 222, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.a3develop .build {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1958px;
+  height              : auto;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .sapuikit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2023px;
+  height              : auto;
+  width               : 204px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 0.67);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .themeparametertool {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2087px;
+  height              : auto;
+  width               : 389px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 0.67);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .sapuikit1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2162px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 803px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 0.67);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .library {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1847px;
+  height              : auto;
+  width               : 362px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(222, 222, 222, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.a3develop .linecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1931px;
+  height              : 2px;
+  width               : 388px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.a3develop .linecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1930px;
+  height              : 2px;
+  width               : 388px;
+  position            : absolute;
+  margin              : 0;
+  left                : 802px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.a3develop .ue0e3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1960px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1040px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SAP-icons", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .ue0e3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2027px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1042px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.2;
+  font-family         : "SAP-icons", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(223, 223, 223, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .ue0e3copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2167px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1042px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.2;
+  font-family         : "SAP-icons", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(223, 223, 223, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .ue0e3copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2095px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1042px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.2;
+  font-family         : "SAP-icons", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(223, 223, 223, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .rectangle10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1953px;
+  height              : 51px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  border-radius       : 25px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(155, 154, 155, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1966px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 331px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.49;
+}
+.a3develop .searchcomponents {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1968px;
+  height              : auto;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Italic", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(188, 188, 188, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .turndesignsintore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2214px;
+  height              : auto;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1091px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(199, 199, 199, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.a3develop .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2128px;
+  height              : 110px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectangle12 {
+  background-color    : rgba(119, 119, 119, 1.0);
+  top                 : 0px;
+  height              : 110px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectangle {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 8px;
+  height              : 5px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectanglecopy {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 34px;
+  height              : 3px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectanglecopy2 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 43px;
+  height              : 3px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectanglecopy3 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 51px;
+  height              : 3px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectanglecopy4 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 60px;
+  height              : 3px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectangle23 {
+  background-color    : rgba(151, 189, 223, 1.0);
+  top                 : 7px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectangle23copy {
+  background-color    : rgba(151, 189, 223, 1.0);
+  top                 : 94px;
+  height              : 4px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectangle23copy2 {
+  background-color    : rgba(151, 189, 223, 1.0);
+  top                 : 91px;
+  height              : 8px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .rectangle23copy3 {
+  background-color    : rgba(200, 222, 242, 1.0);
+  top                 : 94px;
+  height              : 2px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 144px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 1px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 {
+  background-color    : rgba(119, 119, 119, 1.0);
+  top                 : 2130px;
+  height              : 166px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectangle12 {
+  background-color    : rgba(119, 119, 119, 1.0);
+  top                 : 0px;
+  height              : 166px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectangle {
+  background-color    : rgba(197, 197, 197, 1.0);
+  top                 : 0px;
+  height              : 11px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.a3develop .group2 .rectanglecopy10 {
+  background-color    : rgba(197, 197, 197, 1.0);
+  top                 : 106px;
+  height              : 11px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.a3develop .group2 .rectanglecopy5 {
+  background-color    : rgba(190, 190, 190, 1.0);
+  top                 : 3px;
+  height              : 4px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy11 {
+  background-color    : rgba(190, 190, 190, 1.0);
+  top                 : 110px;
+  height              : 4px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy4 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 18px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy12 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 125px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy6 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 30px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy13 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 137px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy7 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 42px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy14 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 149px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy8 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 54px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy15 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 78px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy9 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 66px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .rectanglecopy16 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 90px;
+  height              : 5px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 7px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2 .path3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 126px;
+  height              : 7px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2130px;
+  height              : 110px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 463px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 110px;
+  width               : 194px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectangle12 {
+  background-color    : rgba(119, 119, 119, 1.0);
+  top                 : 21px;
+  height              : 90px;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectangle {
+  background-color    : rgba(115, 114, 114, 1.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(37, 37, 37, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectanglecopy5 {
+  background-color    : rgba(190, 190, 190, 1.0);
+  top                 : 9px;
+  height              : 5px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectanglecopy4 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 34px;
+  height              : 5px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectanglecopy17 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 49px;
+  height              : 5px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectanglecopy18 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 64px;
+  height              : 5px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectanglecopy19 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 79px;
+  height              : 5px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .rectanglecopy20 {
+  background-color    : rgba(165, 165, 165, 1.0);
+  top                 : 94px;
+  height              : 5px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3 .group2copy1 .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 7px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1953px;
+  height              : 251px;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1088px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11 {
+  background-color    : rgba(120, 120, 120, 1.0);
+  top                 : 0px;
+  height              : 251px;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle111 {
+  background-color    : rgba(47, 47, 47, 1.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy15 {
+  background-color    : rgba(102, 102, 102, 1.0);
+  top                 : 21px;
+  height              : 230px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy {
+  background-color    : rgba(213, 213, 213, 1.0);
+  top                 : 36px;
+  height              : 89px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy4 {
+  background-color    : rgba(213, 213, 213, 1.0);
+  top                 : 36px;
+  height              : 89px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy5 {
+  background-color    : rgba(213, 213, 213, 1.0);
+  top                 : 152px;
+  height              : 89px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy1 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 52px;
+  height              : 5px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy2 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 60px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy6 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 82px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy11 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 160px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy13 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 172px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy22 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 186px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy24 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 199px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy26 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 213px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy28 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 228px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy10 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 89px;
+  height              : 4px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy12 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 164px;
+  height              : 4px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy21 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 177px;
+  height              : 4px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy23 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 191px;
+  height              : 4px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy25 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 205px;
+  height              : 4px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy27 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 218px;
+  height              : 4px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy29 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 232px;
+  height              : 4px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy3 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 67px;
+  height              : 16px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .oval3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .oval3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .oval3copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .oval3copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy7 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 62px;
+  height              : 16px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy8 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 41px;
+  height              : 16px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy14 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 157px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy18 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 199px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy16 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 171px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy19 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 212px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy17 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 185px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy20 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 226px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .rectangle11copy9 {
+  background-color    : rgba(143, 143, 143, 1.0);
+  top                 : 41px;
+  height              : 16px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 17px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group15 .path4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 126px;
+  height              : 71px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .linecopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2577px;
+  height              : 2px;
+  width               : 602px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.a3develop .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2615px;
+  height              : auto;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(36, 36, 36, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .discussions {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2615px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(36, 36, 36, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .components {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2615px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1059px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(36, 36, 36, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.a3develop .thev121releasei {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2717px;
+  height              : auto;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .fundamentaluiuses {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2717px;
+  height              : auto;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .theloadingindicato {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2717px;
+  height              : auto;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1059px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a3develop .exporttospreadshee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2681px;
+  height              : auto;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(127, 127, 127, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .fundamentalsgrid {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2681px;
+  height              : auto;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(127, 127, 127, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .theloadingspinner {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2681px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1059px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(127, 127, 127, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.a3develop .a1of5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2824px;
+  height              : auto;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .a1of5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2824px;
+  height              : auto;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .a1of5copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2824px;
+  height              : auto;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1059px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(94, 167, 239, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.a3develop .next {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2824px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .nextcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2824px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 895px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .nextcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2824px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1375px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2991px;
+  height              : 51px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .line2copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .shellfooter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 48px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .shellfooter .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .shellfooter .privacy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1201px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(159, 159, 159, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1266px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(159, 159, 159, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span1 {
+  
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span2 {
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span3 {
+  
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span4 {
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span5 {
+  
+}
+.a3develop .group3copy .shellfooter .u6caaicpu590709046015u53f72 .span6 {
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+}
+.a3develop .group3copy .shellfooter .legaldisclosure {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1079px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(159, 159, 159, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a3develop .group3copy .shellfooter .copyrightandtradem {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 896px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(159, 159, 159, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a3develop .group3copy .shellfooter .termsofuse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 795px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(159, 159, 159, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a3develop .group3copy .shellfooter .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 24px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .shellfooter .group1 .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 173px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .shellfooter .group1 .group21 .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group3copy .shellfooter .group1 .group21 .thebestrun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(212, 210, 210, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a3develop .developwithfiorif {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 397px;
+  height              : auto;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(212, 212, 212, 1.0);
+  text-align          : left;
+  line-height         : 80.0px;
+}
+.a3develop .developwithfiorif .span1 {
+  
+}
+.a3develop .developwithfiorif .span2 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+}
+.a3develop .fiorifundamentalsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 568px;
+  height              : auto;
+  width               : 515px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(212, 212, 212, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.a3develop .group1443copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 738px;
+  width               : 536px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 242px;
+  height              : 635px;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 635px;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 637px;
+  width               : 811px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle7 {
+  background-color    : rgba(68, 68, 68, 1.0);
+  top                 : 0px;
+  height              : 637px;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(34, 34, 34, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle8 {
+  background-color    : rgba(34, 34, 34, 1.0);
+  top                 : 50px;
+  height              : 586px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle81 {
+  background-color    : rgba(102, 102, 102, 1.0);
+  top                 : 86px;
+  height              : 550px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.a3develop .group2copy2 .group2copy21 .rectangle82 {
+  background-color    : rgba(102, 102, 102, 1.0);
+  top                 : 50px;
+  height              : 36px;
+  width               : 750px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.2;
+}
+.a3develop .group2copy2 .group2copy21 .line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 5px;
+  width               : 754px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14 {
+  background-color    : rgba(255, 255, 255, 0.4);
+  top                 : 108px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy2 {
+  background-color    : rgba(255, 255, 255, 0.4);
+  top                 : 143px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy3 {
+  background-color    : rgba(255, 255, 255, 0.4);
+  top                 : 178px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy4 {
+  background-color    : rgba(255, 255, 255, 0.4);
+  top                 : 213px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy {
+  background-color    : rgba(255, 255, 255, 0.2);
+  top                 : 65px;
+  height              : 6px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy5 {
+  background-color    : rgba(255, 255, 255, 0.2);
+  top                 : 65px;
+  height              : 6px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy6 {
+  background-color    : rgba(255, 255, 255, 0.2);
+  top                 : 65px;
+  height              : 6px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .rectangle14copy7 {
+  background-color    : rgba(255, 255, 255, 0.2);
+  top                 : 65px;
+  height              : 6px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 294px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span1 {
+  
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span2 {
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span3 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(119, 119, 119, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span4 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(126, 210, 33, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span5 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(119, 119, 119, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span6 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span7 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(73, 143, 225, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span8 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span9 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(245, 165, 35, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span10 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span11 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(245, 165, 35, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span12 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span13 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(245, 165, 35, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span14 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span15 {
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  color               : rgba(119, 119, 119, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .fooincludefdt .span16 {
+  color               : rgba(204, 204, 204, 1.0);
+}
+.a3develop .group2copy2 .group2copy21 .scsswithangular {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 113px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(204, 204, 204, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.a3develop .group2copy2 .group2copy21 .typemixin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 146px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Light", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(170, 170, 170, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.a3develop .group2copy2 .group2copy21 .preview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 416px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "72-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a3develop .group2copy2 .group2copy21 .rectangle2 {
+  background-color    : rgba(68, 68, 68, 1.0);
+  top                 : 443px;
+  height              : 152px;
+  width               : 711px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.45;
+}
+.a3develop .group2copy2 .group2copy21 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 464px;
+  height              : 106px;
+  width               : 508px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
